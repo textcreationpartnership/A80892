@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Lieutenant Generall Crumwell concerning the kingdom of Scotland, and their invading the realme of England. And his resolution to march into the said kingdom with his army, for restitution of goods and cattell to all His Majesties subjects of England, who have suffered since their first invasion. Also, the proceedings of Generall Monro against him, and the summons of the estates at Edenburgh to the Scottish nation, touching the army of England, and redeeming of their prisoners; with the resolution of the Scots jockies thereupon, and a new army raised in Scotland by Lieut. Generall Lesley. Likewise, a great blow given to the English neer the borders of Scotland, and 200 taken prisoners. As also, the resolution of the two castles of Scarbrough and Pomfract, and joyfull newes from Yarmouth.</title>
+            <author>Cromwell, Oliver, 1599-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80892</idno>
+            <idno type="STC">Wing C7062</idno>
+            <idno type="STC">Thomason E464_9</idno>
+            <idno type="STC">ESTC R205140</idno>
+            <idno type="EEBO-CITATION">99864579</idno>
+            <idno type="PROQUEST">99864579</idno>
+            <idno type="VID">116810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116810)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E464[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Lieutenant Generall Crumwell concerning the kingdom of Scotland, and their invading the realme of England. And his resolution to march into the said kingdom with his army, for restitution of goods and cattell to all His Majesties subjects of England, who have suffered since their first invasion. Also, the proceedings of Generall Monro against him, and the summons of the estates at Edenburgh to the Scottish nation, touching the army of England, and redeeming of their prisoners; with the resolution of the Scots jockies thereupon, and a new army raised in Scotland by Lieut. Generall Lesley. Likewise, a great blow given to the English neer the borders of Scotland, and 200 taken prisoners. As also, the resolution of the two castles of Scarbrough and Pomfract, and joyfull newes from Yarmouth.</title>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 18. Printed for R. Williamson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116810:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of Lieutenant Generall CRUMWELL Concerning The Kingdom of <hi>Scotland,</hi> and their invading of the Realme of <hi>England.</hi> And his Reſolution to march into the ſaid <hi>Kingdom</hi> with his Army, for reſtitution of Goods and Cattell to all His Majeſties Subjects of <hi>England,</hi> who have ſuffered ſince their firſt Invaſion.</p>
+            <p>ALSO, The proceedings of Generall <hi>Monro</hi> againſt him, and the Summons of the Eſtates at <hi>Edenburgh</hi> to the Scottiſh, Nation, touching the Army of <hi>England,</hi> and redee<g ref="char:EOLhyphen"/>ming of their priſoners; with the reſolution of the Scots Jockies thereupon, and a new Army raiſed in <hi>Scotland</hi> by Lieut. Generall <hi>Leſley.</hi>
+            </p>
+            <p>LIKEWISE, A great Blow given to the Engliſh neer the Borders of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and 200 taken priſoners. As alſo, the reſolution of the two Caſtles of <hi>Scarbrough</hi> and <hi>Pomfract,</hi> and joyfull Newes from <hi>Yarmouth.</hi>
+            </p>
+            <p>Septemb. 18. Printed for <hi>R. Williamſon,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116810:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>THE DECLARATION Of Lieutenant-Generall CRUMWEL Concerning The Kingdom of <hi>Scotland,</hi> and his preſent Deſign and Engagement with the new levyed Forces, com<g ref="char:EOLhyphen"/>manded by the Earl of <hi>Lanerick.</hi>
+                  </head>
+                  <opener>
+                     <salute>Right Honoured,</salute>
+                  </opener>
+                  <p>THe Lord <hi>Lanerick</hi> in the South of <hi>Scotland</hi> is very active in levying of new Forces for the <hi>King,</hi> who by Commiſſion from the Com<g ref="char:EOLhyphen"/>mittee of Eſtates at <hi>Edenburgh,</hi> ſummons in all from the age of 16. to 60. requiring obedience from them
+<pb n="2" facs="tcp:116810:3"/>for the aſſiſtance of <hi>Monro,</hi> regaining of their liber<g ref="char:EOLhyphen"/>ties, and redeeming of their Natives: but their appea<g ref="char:EOLhyphen"/>rance is but ſmall, the Lads refuſing to ingage againſt <hi>England,</hi> which cauſeth the Committe of Eſtates to give expreſſe Orders for an inforcement; yet all can<g ref="char:EOLhyphen"/>not prevail, the major part diſſerting their owne habi<g ref="char:EOLhyphen"/>tations, and flies to the Marquis of <hi>Argyle</hi> for ſhelter, whofe gallantry towards the Commonalty, induceth the whole Kingdom to adhere to him, and have now compleated three or four thouſand horſe and foot, for their ſafety and preſervation, to be commanded and conducted by the ſaid <hi>Marqueſse,</hi> being reſolved to oppoſe <hi>Mouro</hi> and his <hi>Army,</hi> and give a check to the Reſults of the Committee of Eſtates.</p>
+                  <p>Lieut. Gen. <hi>David Leſley</hi> hath raiſed two thouſand old Soldiers, deſires a conjunction with the <hi>Marquis,</hi> who is now upon his march from the North towards the City of <hi>Edenburgh.</hi>
+                  </p>
+                  <p>But <hi>Monro</hi> uſeth is utmoſt endeavour to obſtruct the ſame, and is now marching from the Confines of <hi>England,</hi> to ſecure the ſaid City, and Committee, be<g ref="char:EOLhyphen"/>ing much diſturbed with new commotions and inſur<g ref="char:EOLhyphen"/>rections.</p>
+                  <p>They are purſued exceeding cloſe by Lieut. Gene<g ref="char:EOLhyphen"/>rall <hi>Crumwell,</hi> and Major Gen. <hi>Lambert,</hi> who are reſol<g ref="char:EOLhyphen"/>ved to have reſtitution of all their plu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dered goods &amp; cattell, which they have ſo barbarouſly ſeized on, and took from the Inhabitants in theſe parts, the Lieuten. Gen. having declared, <hi>That he is reſolved to hazard life, estate, and fortune, for the priviledge and liberty of the ſubject, and to preſerve the free-born people of this King<g ref="char:EOLhyphen"/>dom from violence and oppreſſion, and therefore will give
+<pb n="3" facs="tcp:116810:3"/>his utmoſt aſſiſtance, for the reſtoring of them to their just rights, and remanding back the Cattell which hath been taken from them, and ſent into</hi> Scotland; this gives great ſatisfaction to the Country people, who are ſo far taken with his declaratory expreſſions, that they have tendered theie ſervice in this preſent Expedition, proffering to adventure all that is near and dear unto them, for his aſſiſtance, which was well taken, and thanks returned for their late and preſent forwardneſs in ſhewing themſelves willing to promote ſo great a work, and to root our, and diſperſe the enemies of <hi>Re<g ref="char:EOLhyphen"/>ligion, King, and Kingdom.</hi>
+                  </p>
+                  <p>We hear that the Royall party in <hi>Cheſhire</hi> had late<g ref="char:EOLhyphen"/>ly a deſign to have ſurprized the City of <hi>Chester</hi> for the <hi>King,</hi> and to have put moſt of the Officers and ſol<g ref="char:EOLhyphen"/>diers to the ſword; but even in the very nick of time, they were diſcovered, and the grand Actors taken, and executed.</p>
+                  <p>The like horrid and perſidious complottings have been fomented in ſeverall other parts of the <hi>Kindome,</hi> but by the providence of the great Jehovah ſtill fru<g ref="char:EOLhyphen"/>ſtrated.</p>
+                  <p>
+                     <hi>Scarbrough</hi> holds out with great inſolency, the yong Gentleman Col. <hi>Bointon</hi> denies a ſurrender, having fair promiſes of relief from the Prince, ſome Forces are landed there, but no conſiderable party, not a<g ref="char:EOLhyphen"/>mounting to above three or four hundred. Colenell <hi>Bethell</hi> the Commander in chief againſt it, is reſolved to ſtorm.</p>
+                  <p>The like preparations is making at <hi>Pomfra<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t,</hi> the of<g ref="char:EOLhyphen"/>ficers and others denying a ſurender, Ba<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceries are rai<g ref="char:EOLhyphen"/>ſing, and skaling ladders ſent for.</p>
+                  <closer>
+                     <dateline>Newcaſtle <date>14. Sept. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Other letters ſay as followeth.</p>
+            <pb n="4" facs="tcp:116810:4"/>
+            <p> On Satterday laſt the ſaid <hi>Monro</hi> marched with his Army toward <hi>Morpeth,</hi> where he called a Councell of War, the reſults whereof was, to march back to the Coal-pits, and fire them all, to augment the price of Scotch-coal, and advance Navigation: but Sunday morning two Poſts came ſpeeding to have him come preſently back into Scotland, a good pretence for his running away, for the Presbyterian Miniſters had got hold of the civill Sword, made the renowned Marquis of <hi>Argyle</hi> Generall having an Army conſiſting of four thouſand Horſe and Foot, and much too hard for the new levyed Forces of the Lord <hi>Lanerick,</hi> moſt of them being totally routed and diſperſed, not ten being left in a Body.</p>
+            <p>Theſe meſſengers came from <hi>Crauford</hi> and <hi>Lane<g ref="char:EOLhyphen"/>rick</hi> who are afraid of the Miniſters new ſword, more then of all their excommunications.</p>
+            <p>And yet have they proceeded to many notable de<g ref="char:EOLhyphen"/>crees, to paſſe by others, one is, That in regard of the great defection to the Covenant throughout Scotland, they will not adminiſter the Sacrament of the ſupper for one year to come, repent who will, and as ſoon as they will.</p>
+            <p>This ill tydings ſaved our Coal-pits, and ſends the Scots the neereſt way over <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>weed, in ſuch haſte, that they had almoſt left their plunder behind them, had they not preferred it before life, and thus are the Lads ſhifted once more out of <hi>England</hi> towards <hi>Kelſey,</hi> lea<g ref="char:EOLhyphen"/>ving the confederate Engliſh by the way of <hi>Northam,</hi> to ſhift for themſelves.</p>
+            <p>They quartered in <hi>Banburg</hi> Hundred, and being thus
+<pb n="3" facs="tcp:116810:4"/>deſerted, they repair to <hi>Barwick</hi> for ſafety, from the Parliaments Forces, whom they thought at their backs though above fifty miles from them.</p>
+            <p>But ths Governour Lieut. Col. <hi>Leſly</hi> tells them plainly he could not let them in, having no proviſions, from whence it was reported, and may come to it in time, that by directon of the Marquis of <hi>Argyle,</hi> upon his perill, he ſhould hold that place for the <hi>Parliament</hi> of <hi>England.</hi>
+            </p>
+            <p>Col. <hi>Lawſon</hi> is gone with his feeble company to<g ref="char:EOLhyphen"/>wards <hi>Cockermouth</hi> Caſtle, and would be glad of quar<g ref="char:EOLhyphen"/>ter upon mercy.</p>
+            <p>In <hi>Northumberland</hi> many were plundered to great values, among others Sir <hi>Iohn Fenwicke,</hi> from whom was taken his beſt moveables, and many gallant hor<g ref="char:EOLhyphen"/>ſes, his dammage is eſtimate at 2000 <hi>l.</hi> the Sheriff of <hi>Northumberland</hi> had his ſhare alſo, not meat for a Re<g ref="char:EOLhyphen"/>giment left in all that County.</p>
+            <p>By Letters from <hi>Yarmouth</hi> it is advertized, that the populous Inhabitants after a long capitulation, they ſtill perſiſting not to have any ſouldiers come into them, and yet carried themſelves in a newtrall way, hath yeelded and given way to the income of ſome hundreds of Foot, and ſome Troops of Horſe, but not till <hi>Munday</hi> night, they ſtood ſo far out as to arm their men: the Generall was neceſſitated down, but before he came they had agreed</p>
+            <p>There will be ſome men put into Garriſons, its conceiv'd only in ſome Fort, that may command both town and Harbour, and its but neceſſary, conſidering the great danger of a forraign Army landing there,
+<pb n="6" facs="tcp:116810:5"/>whoſe great threatnings may allar'm the whole King<g ref="char:EOLhyphen"/>dom to a poſture of defence, and embrace thoſe who have been their ſafeguard and protection for theſe 7 or 8 years.</p>
+            <p>Letters further from the North ſay, that <hi>Monro</hi> is retreated from the Confines of <hi>England,</hi> but purſued by Lieu. Gen. <hi>Crumwell,</hi> who is reſolved to have reſti<g ref="char:EOLhyphen"/>tution made to thoſe Engliſh that have ſuffered ſince the late invaſion. The Scottiſh Royaliſts leave no ways unattempted to raiſe additionall Forces for the <hi>King,</hi> and ſends fair Propoſals throughout the whole <hi>King<g ref="char:EOLhyphen"/>dom</hi> for a compliance, but can no ways prevaile. Moſt of Sir <hi>Philip Muſgraves</hi> forces ars routed and ſcatte<g ref="char:EOLhyphen"/>red by the Lieutenant Generall, and above 200 taken priſoners.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
